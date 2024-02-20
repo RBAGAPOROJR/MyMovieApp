@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="footer_text">INFO6133 | Lab Activity 02 | Ronald Bagaporo</string>
+    <string name="movie_title">Movie Title</string>
+    <string name="movie_genre">Movie Genre</string>
+    <string name="save_movie">Save Movie</string>
+</resources>
