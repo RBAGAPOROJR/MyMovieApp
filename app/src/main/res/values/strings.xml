@@ -5,4 +5,6 @@
     <string name="movie_title">Movie Title</string>
     <string name="movie_genre">Movie Genre</string>
     <string name="save_movie">Save Movie</string>
+    <string name="maps_apiKey">AIzaSyAWEIFtX5oSl2gC-bROnD_bPwHK07dcHS4</string>
+
 </resources>
